@@ -1,0 +1,5 @@
+1. language: Perl
+2. framework: http://mojolicio.us/
+3. web-server: based on Apache or Nginx, using some Mojolicious daemon or prefork solutions
+4. storage: SQLite, http://habrahabr.ru/post/42121/
+5. caching: Redis
