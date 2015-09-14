@@ -3,4 +3,4 @@
 3. web-server: based on Apache or Nginx, using some Mojolicious daemon or prefork solutions
 4. storage: SQLite, http://habrahabr.ru/post/42121/
 5. caching: Redis
-6. gammas: http://allforchildren.ru/article/fancywork11.php
+6. gammas: http://allforchildren.ru/article/fancywork11.php http://www.dpva.info/guide/guidephysics/lightandcolor/colorcodification/moulinexcolor/
