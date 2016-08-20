@@ -1,6 +1,6 @@
 1. language: PHP
 2. framework: Phalcon
-3. web-server: 
+3. web-server: php-fpm
 4. storage: MySQL
 5. caching: Redis
 6. gammas: http://allforchildren.ru/article/fancywork11.php
